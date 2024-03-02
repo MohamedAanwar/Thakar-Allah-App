@@ -30,7 +30,7 @@
 Download the APK file directly from [this Google Drive link](https://drive.google.com/ذكرالله.apk). Install the app on your Android device to begin using ذكر الله - Thakar Allah.
 
 # Contact Developer:
-For inquiries or support, contact the developer via:
+For inquiries or support, contact the developer via:\n
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-anwar-08137226b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnjuUnpKWSa%2BnTAS1GFBp7w%3D%3D)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moahamedanwar082@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+201100106132)
@@ -39,4 +39,4 @@ For inquiries or support, contact the developer via:
 # License:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Thank you for using ذكر الله - Thakar Allah! We hope it aids in your spiritual journey.
+# Thank you for using ذكر الله - Thakar Allah! We hope it aids in your spiritual journey.

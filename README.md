@@ -1,11 +1,11 @@
 *Title: ذكر الله - Thakar Allah Islamic Remembrance App*
-![alt text](app_icon_link)
+![alt text](https://github.com/MohamedAanwar/Thakar-Allah-App/blob/main/assets/installApp1.png)
 *Description:*
 ذكر الله - Thakar Allah is an Islamic remembrance app developed using Flutter and Dart. It serves as a comprehensive platform for Muslims to engage in various forms of Islamic remembrance, fostering spiritual growth and mindfulness.
 
 
 *Features:*
-![alt text](app_screenshot_link)
+![alt text]([app_screenshot_link](https://github.com/MohamedAanwar/Thakar-Allah-App/blob/main/assets/installApp2.png))
 
 1. *Dhikr Counter:* Keep track of daily remembrance with a customizable dhikr counter.
 2. *Quranic Recitations:* Access a collection of Quranic verses for recitation and reflection.

@@ -1,4 +1,4 @@
-#ذكر الله - Thakar Allah Islamic Remembrance App
+# ذكر الله - Thakar Allah Islamic Remembrance App
 
 ![alt text](https://github.com/MohamedAanwar/Thakar-Allah-App/blob/main/assets/installApp1.png)
 

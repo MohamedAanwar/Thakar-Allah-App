@@ -1,13 +1,15 @@
-# ذكر الله - Thakar Allah Islamic Remembrance App
+# تطبيق ذكر الله - Thakar Allah App
+-------------------------------------------------------
 
 ![alt text](https://github.com/MohamedAanwar/Thakar-Allah-App/blob/main/assets/installApp1.png)
 
-*Description:*
+# Description:
 ذكر الله - Thakar Allah is an Islamic remembrance app developed using Flutter and Dart. It serves as a comprehensive platform for Muslims to engage in various forms of Islamic remembrance, fostering spiritual growth and mindfulness.
 
 
 
-*Features:*
+# Features:
+
 ![alt text](https://github.com/MohamedAanwar/Thakar-Allah-App/blob/main/assets/installApp2.png)
 
 1. *Dhikr Counter:* Keep track of daily remembrance with a customizable dhikr counter.
@@ -21,17 +23,17 @@
 9. *Hijri Calendar:* Stay connected to the Islamic lunar calendar, keeping track of important dates such as Ramadan and Eid.
 10. *Prayer Times:* Stay updated with accurate prayer times based on location, receiving notifications for each Salah time.
 
-*Installation:*
+# Installation:
 Download the APK file directly from [this Google Drive link](https://drive.google.com/ذكرالله.apk). Install the app on your Android device to begin using ذكر الله - Thakar Allah.
 
-*Contact Developer:*
+# Contact Developer:
 For inquiries or support, contact the developer via:
 - Gmail: developer@example.com
 - Facebook: [facebook.com/ذكرالله](https://facebook.com/ذكرالله)
 - WhatsApp: +1234567890
 - Instagram: [instagram.com/ذكرالله](https://instagram.com/ذكرالله)
 
-*License:*
+# License:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Thank you for using ذكر الله - Thakar Allah! We hope it aids in your spiritual journey.

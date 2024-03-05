@@ -23,7 +23,7 @@ if (flutterVersionName == null) {
 }
 
 android {
-    compileSdkVersion 33
+    compileSdkVersion 34
     namespace "com.example.athkar"
     ndkVersion "25.1.8937393"
     

@@ -54,6 +54,7 @@ class _AzkarViewState extends State<AzkarView> {
       child: Scaffold(
         backgroundColor: kPrimaryCOlor,
         appBar: AppBar(
+          automaticallyImplyLeading: false,
           iconTheme: IconThemeData(color: Colors.white),
           backgroundColor: kPrimaryCOlor,
           actions: [
@@ -63,12 +64,11 @@ class _AzkarViewState extends State<AzkarView> {
                       widget.azkarType == 'أذكار الطعام' ||
                       widget.azkarType == 'أذكار المسجد' ||
                       widget.azkarType == 'أذكار بعد الصلاة' ||
-                      widget.azkarType == 'أذكار الصلاه') {
+                      widget.azkarType == 'أذكار الصلاة') {
                     loaddataRoqia();
                   } else {
                     loaddata();
                   }
-
                   listScrollController.animateTo(
                     0,
                     duration: Duration(seconds: 2),
@@ -77,6 +77,14 @@ class _AzkarViewState extends State<AzkarView> {
                 },
                 icon: Icon(
                   Icons.replay_outlined,
+                  color: Colors.white,
+                )),
+            IconButton(
+                onPressed: () {
+                  Navigator.pop(context);
+                },
+                icon: Icon(
+                  Icons.arrow_forward_ios_rounded,
                   color: Colors.white,
                 ))
           ],
